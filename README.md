@@ -1,1 +1,1 @@
-# scriting
+# scripting file
